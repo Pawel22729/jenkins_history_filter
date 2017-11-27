@@ -1,0 +1,6 @@
+---
+config:
+  apis:
+    jenkins:
+      wendy_scripts: "https://wendy.williamhill.local/job/Stingray-YAML-GIT--Traffic-Scripts.v2/api/json?pretty=true"
+      
